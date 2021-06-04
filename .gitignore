@@ -1,2 +1,14 @@
-# exclude everything
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#pytorch models
+*.pth
+*.pt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# exclude everything in dataset
 input/*
