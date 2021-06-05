@@ -12,3 +12,4 @@ __pycache__/
 
 # exclude everything in dataset
 input/*
+trained_models/*
